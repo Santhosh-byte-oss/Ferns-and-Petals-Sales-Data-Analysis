@@ -32,33 +32,33 @@ The main goal is to analyze sales performance and provide insights in a clear, v
 ---
 ## key business questions:
 
-1 Total Revenue  
-<br>
-2 Average Order and Delivery Time
+1- Total Revenue  
 
-3 Monthly Sales Performance 
+2- Average Order and Delivery Time
 
-4 Top Products by Revenue
+3- Monthly Sales Performance 
 
-5 Customer Spending Analysis(Average of revenue)
+4- Top Products by Revenue
 
-6 Sales Performance by Top Product
+5- Customer Spending Analysis(Average of revenue)
 
-7 Top 10 Cities by Number of Orders
+6- Sales Performance by Top Product
 
-8 Order Quantity vs. Delivery Time
+7- Top 10 Cities by Number of Orders
 
-9 Revenue Comparison Between Occasions
+8- Order Quantity vs. Delivery Time
 
-10 Product Popularity by Occasion(Slicer)   
+9- Revenue Comparison Between Occasions
 
-11 Top Hours of Orders
+10- Product Popularity by Occasion(Slicer)   
 
-12 Orders by Genders
+11- Top Hours of Orders
 
-13 Top 10 Buyers
+12- Orders by Genders
 
-14 order date time line
+13- Top 10 Buyers
+
+14- order date time line
 
 
 
