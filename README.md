@@ -36,28 +36,28 @@ The main goal is to analyze sales performance and provide insights in a clear, v
 1- Total Revenue → SUM(revenue) → $3,520,984
 
 
-2- Average Order and Delivery Time → AVERAGE(delivery_date - order_date) → 5.53 days
+2- Average Order and Delivery Time → AVERAGE(delivery_date - order_date) → 5.5 days
 
 
-3- Monthly Sales Performance → Pivot by month → Feb & Aug highest, Jan lowest
+3- Monthly Sales Performance → Pivot by month → Aug then Feb highest, Jan lowest
 
 
-4- Top Products by Revenue → Pivot SUM(revenue) by product → Colors, Soft Toys, Sweets top
+4- Top Products by Revenue → Pivot SUM(revenue) by product → Colors, Soft Toys, Sweets
 
 
-5- Customer Spending Analysis → AVERAGE(revenue per customer) → $3,520.98
+5- Customer Spending Analysis → AVERAGE(revenue per customer) → $3,520
 
 
 6- Sales Performance by Top Product → Pivot filtered by product → Compare revenues
 
 
-7- Top 10 Cities by Orders → Sort COUNT(order_id) → Ghaziabad, Bareilly… top 10
+7- Top 10 Cities by Orders → Sort COUNT(order_id) → Ghaziabad, Bareill
 
 
 8- Order Quantity vs. Delivery Time → Use correlation → 0.0039 (no strong relationship)
 
 
-9- Revenue Comparison Between Occasions → Pivot by occasion → Anniversary & Raksha Bandhan top
+9- Revenue Comparison Between Occasions → Pivot by occasion → Anniversary & Raksha Bandhan in the top
 
 
 10- Product Popularity by Occasion (Slicer) → Use slicer → Interactive filtering
