@@ -36,17 +36,28 @@ The main goal is to analyze sales performance and provide insights in a clear, v
 <br>
 2 Average Order and Delivery Time
 
-3 Monthly Sales Performance  
+3 Monthly Sales Performance 
+
 4 Top Products by Revenue
+
 5 Customer Spending Analysis(Average of revenue)
+
 6 Sales Performance by Top Product
+
 7 Top 10 Cities by Number of Orders
+
 8 Order Quantity vs. Delivery Time
+
 9 Revenue Comparison Between Occasions
+
 10 Product Popularity by Occasion(Slicer)   
+
 11 Top Hours of Orders
+
 12 Orders by Genders
+
 13 Top 10 Buyers
+
 14 order date time line
 
 
