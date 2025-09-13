@@ -1,5 +1,5 @@
-# 🧾 Excel Sales Analysis Dashboard  
-
+# 🧾 Ferns-and-Petals-Sales-Data-Analysis-Using-Excel
+ 
 ## 📌 Overview  
 This is my **first data analysis project** using **Microsoft Excel**.  
 The project demonstrates how to clean, organize, and visualize sales data by creating an **interactive dashboard**.  
