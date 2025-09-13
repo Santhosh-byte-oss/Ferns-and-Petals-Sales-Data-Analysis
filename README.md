@@ -30,36 +30,49 @@ The main goal is to analyze sales performance and provide insights in a clear, v
 <img width="1081" height="359" alt="image" src="https://github.com/user-attachments/assets/cea4bc33-03cc-430a-a2b0-33e6e5714633" />
 
 ---
-## key business questions:
+## 🔑 Business Questions & Answers
 
-1- Total Revenue  
 
-2- Average Order and Delivery Time
+1- Total Revenue → SUM(revenue) → $3,520,984
 
-3- Monthly Sales Performance 
 
-4- Top Products by Revenue
+2- Average Order and Delivery Time → AVERAGE(delivery_date - order_date) → 5.53 days
 
-5- Customer Spending Analysis(Average of revenue)
 
-6- Sales Performance by Top Product
+3- Monthly Sales Performance → Pivot by month → Feb & Aug highest, Jan lowest
 
-7- Top 10 Cities by Number of Orders
 
-8- Order Quantity vs. Delivery Time
+4- Top Products by Revenue → Pivot SUM(revenue) by product → Colors, Soft Toys, Sweets top
 
-9- Revenue Comparison Between Occasions
 
-10- Product Popularity by Occasion(Slicer)   
+5- Customer Spending Analysis → AVERAGE(revenue per customer) → $3,520.98
 
-11- Top Hours of Orders
 
-12- Orders by Genders
+6- Sales Performance by Top Product → Pivot filtered by product → Compare revenues
 
-13- Top 10 Buyers
 
-14- order date time line
+7- Top 10 Cities by Orders → Sort COUNT(order_id) → Ghaziabad, Bareilly… top 10
 
+
+8- Order Quantity vs. Delivery Time → Use correlation → 0.0039 (no strong relationship)
+
+
+9- Revenue Comparison Between Occasions → Pivot by occasion → Anniversary & Raksha Bandhan top
+
+
+10- Product Popularity by Occasion (Slicer) → Use slicer → Interactive filtering
+
+
+11- Top Hours of Orders → Extract hour → Peaks at 18–21 & 5–6
+
+
+12- Orders by Gender in General → Pivot by gender → Male 51%, Female 49%
+
+
+13- Top 10 Buyers → Rank customers by SUM(revenue) → Highest spenders
+
+
+14- Order Date Timeline → Line chart by order date → Shows sales trend
 
 
 
@@ -72,12 +85,27 @@ The main goal is to analyze sales performance and provide insights in a clear, v
 
 ---
 
+💡 Recommendations
+
+Launch seasonal campaigns & flash sales for low-sales months (e.g., Jan) and top occasions (Feb, Aug).
+
+Promote top products with bundles, upsells, and gift sets to increase revenue.
+
+Offer tiered discounts or free shipping to boost average order value.
+
+Reduce delivery time via local warehouses, 3PL partners, or express shipping for extra fee.
+
+Schedule marketing pushes during peak hours (18–21 & 5–6) and personalize offers.
+
+Implement loyalty programs and track high-value customers for retention.
+
 
 
 ## 🗂 Files in This Repository  
 
 - `Results and Dashboard.xlsx` → The main Excel file containing data & dashboard
 - `Original Folder` → The main Excel file containing data before cleaning contains ( `customers.xlsx`, `orders.xlsx`, `products.xlsx` )
+- `Recommendations for Sales, Profitability & Performance.pdf` → For Recommendations Details
 - `README.md` → This file  
 
 ---
