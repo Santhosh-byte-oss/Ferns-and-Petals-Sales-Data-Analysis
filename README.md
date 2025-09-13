@@ -33,7 +33,9 @@ The main goal is to analyze sales performance and provide insights in a clear, v
 ## key business questions:
 
 1 Total Revenue  
+<br>
 2 Average Order and Delivery Time
+
 3 Monthly Sales Performance  
 4 Top Products by Revenue
 5 Customer Spending Analysis(Average of revenue)
