@@ -110,10 +110,7 @@ Implement loyalty programs and track high-value customers for retention.
 
 ---
 
-## 📖 How to Use  
+ ## Thanks For Your Time 
 
-1. Download the Excel file  
-2. Open it in Microsoft Excel  
-3. Navigate to the **Dashboard** sheet to explore insights  
 
 ⭐ If you like this project, don’t forget to give it a star!
