@@ -15,7 +15,6 @@ The main goal is to analyze sales performance and provide insights in a clear, v
 - **Techniques Applied:**  
   - Data cleaning & formatting  
   - Pivot tables & charts  
-  - Conditional formatting  
   - Dashboard design  
 
 ---
