@@ -1,4 +1,4 @@
-# 🧾 Ferns-and-Petals-Sales-Data-Analysis-Using-Excel
+# 🧾 Ferns-and-Petals-Sales-Data-Analysis
  
 ## 📌 Overview  
 This is my **first data analysis project** using **Microsoft Excel**.  
